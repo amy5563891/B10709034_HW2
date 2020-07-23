@@ -18,6 +18,9 @@ import com.example.android.b10709034_hw2.data.WaitlistDbHelper;
 
 public class AddPage extends AppCompatActivity {
 
+    private int ab;
+    ab = 432;
+    
     private EditText mNewGuestNameEditText;
     private EditText mNewPartySizeEditText;
     private GuestListAdapter mAdapter;
